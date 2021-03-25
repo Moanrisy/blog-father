@@ -1,0 +1,3 @@
+[submodule "soho"]
+	path = soho
+	url = https://github.com/alexandrevicenzi/soho.git
